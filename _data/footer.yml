@@ -1,0 +1,18 @@
+- links:
+  - name: Blog
+    link: /blog/
+  - name: Team
+    link: /team/
+  - name: Contact
+    link: /contact/
+  - name: Publications
+    link: /publications/
+- links:
+  - name: Twitter
+    link: https://twitter.com/BamEscience
+    social_icon: Twitter
+    new_window: true
+  - name: GitHub
+    link: https://github.com/BAMeScience
+    social_icon: 
+    new_window: true

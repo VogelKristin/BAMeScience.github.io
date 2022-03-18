@@ -1,0 +1,17 @@
+.team_members {
+	padding: 0;
+	list-style: none;
+	@extend %flexbox;
+	@include flex-flow(wrap);
+	text-align: center;
+
+	.personal_description {
+		font-size: 1.3em;
+		margin-top: 20px;
+		color: #666;
+	}
+	.socials{
+		font-size: 1.3em;
+		text-align: left;
+	}
+}
