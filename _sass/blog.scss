@@ -1,3 +1,19 @@
+.wrapper{
+	overflow: hidden;
+}
+
+.text-container_test {
+	margin: 0 auto;
+	position: relative;
+	padding: 0 20px;
+	max-width: 50%;
+	float: left;
+}
+
+.twitter-feed {
+	overflow: hidden;
+}
+
 .blog-posts {
 	list-style: none;
 	padding: 0;
