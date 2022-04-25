@@ -1,5 +1,6 @@
 ---
 name: Katharina Weinberger
+first_name_lower_case: katharina
 position: Researcher
 image_path: /images/team_pictures/katharina.jpg
 twitter: 
