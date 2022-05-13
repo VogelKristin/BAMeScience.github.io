@@ -1,0 +1,27 @@
+.legal-notice {
+	font-size: 1.3em;
+	margin-top: 20px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+
+	.legal-title {
+		font-size: 1.1em;
+		margin-top: 60px;
+		color: rgba(0, 0, 0, 0.7);
+		text-align: left;
+	}
+
+	.legal-header {
+		font-size: 1.0em;
+		margin-top: 20px;
+		color: rgba(0, 0, 0, 0.7);
+		text-align: left;
+	}
+
+	.legal-text {
+		font-size: 0.8em;
+		margin-top: 10px;
+		color: #666;
+		text-align: left;
+	}
+}
