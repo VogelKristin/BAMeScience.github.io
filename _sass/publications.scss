@@ -3,14 +3,11 @@
 	list-style: none;
 	@extend %flexbox;
 	@include flex-flow(wrap);
+
+	.publication-list {
+		font-size: 1.3em;
+		margin-top: 20px;
+		color: #666;
+		text-align: left;
+	}
 }
-
-.publication-list {
-	font-size: 1.3em;
-	margin-top: 20px;
-	color: #666;
-	text-align: left;
-}
-
-	
-
