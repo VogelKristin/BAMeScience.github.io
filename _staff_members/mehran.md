@@ -1,5 +1,5 @@
 ---
-name: Dr.-Ing. Mehran Monavari
+name: Mehran Monavari
 first_name_lower_case: mehran
 position: Researcher
 image_path: /images/team_pictures/mehran.jpg

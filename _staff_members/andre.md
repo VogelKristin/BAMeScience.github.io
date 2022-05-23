@@ -1,5 +1,5 @@
 ---
-name: Dr. Andre Valdestilhas
+name: Andre Valdestilhas
 first_name_lower_case: andre
 position: Researcher
 image_path: /images/team_pictures/andre.jpg

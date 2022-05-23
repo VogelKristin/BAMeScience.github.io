@@ -1,5 +1,5 @@
 ---
-name: Dr. Rukeia El-Athman
+name: Rukeia El-Athman
 first_name_lower_case: rukeia
 position: Researcher
 image_path: /images/team_pictures/user.png
