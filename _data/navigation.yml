@@ -14,6 +14,10 @@
   link: /publications/
   new_window: false
   highlight: false
+- name: Topics
+  link: /topics/
+  new_window: false
+  highlight: false
 - name: GitHub
   link: https://github.com/BAMeScience
   new_window: true

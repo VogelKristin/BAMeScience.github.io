@@ -1,0 +1,59 @@
+---
+title: Research Data Management to facilitate Machine Learning
+---
+<div class="topics-content">
+
+    <div class="graphical-abstract">
+        <img src="/images/topics/graphical_abstract_RDM_for_ML.png" alt="RDM for ML outline" class="center">
+    </div>
+    <div class="topics-body">
+        <h3 class="h3" id="motivation">Motivation
+        </h3>
+        With the advent of a paradigm shift towards <b>data-driven scientific discovery in materials science and
+            engineering (MSE)</b>, machine learning (ML) methods are increasingly finding their way into research
+        domains that
+        have previously relied on experimental discoveries aided by modeling and simulations. With the aid of ML models,
+        properties of new materials can be predicted based on information that is too complex and too vast for
+        traditional human reasoning. However, to make accurate predictions, ML methods rely on an adequately large
+        volume of standardized and unbiased datasets for training and testing. Compared to other scientific domains,
+        publicly available MSE datasets are heterogenous in nature and sparse in number.
+        <br>
+        <br>
+        The systematic extraction of informative features from raw data to use as input for an ML algorithm (feature
+        engineering) requires consistent and standardized data formats that are described with rich metadata.
+        Accordingly, the acquisition, preprocessing, and quality control of data (often combined from heterogeneous data
+        sources) is both a critical and a time-intensive step in building an ML model, particularly in the MSE domain.
+        The high cost and time required for, e.g., the experimental synthesis of new materials and the characterization
+        and optimization of their properties often precludes the generation of a sufficiently large volume of new data
+        by single research groups or even institutions, highlighting the need for the development of common <b>data
+            standards and infrastructures</b> for the sharing of MSE datasets.
+        <h3 class="h3" id="motivation">Objectives
+        </h3>
+        At BAM, we aim to facilitate the application of ML methods by integrating appropriate <b>research data
+            management
+            (RDM) strategies</b> in the whole research process from the creation of a materials dataset to its
+        preprocessing and
+        integration with further data in an ML model to its publication in a scientific repository. We aim to develop
+        services and standards that empower researchers to describe, manage and track the provenance of research data
+        from heterogeneous sources in a central RDM system in a standardized and interoperable manner in line with the
+        FAIR principles for scientific data management [1]. The parameters and results of an ML model will be linked
+        with the datasets used for training or testing, thus providing the basis for seamless tracking of data lineage
+        and contributing to the transparency of ML applications in MSE.
+        <br>
+        <br>
+        The desired functionality of an RDM system for ML includes i.a. the following features:
+        <ul class="topics-list">
+            <li>automated import (where necessary including quality control) of data and metadata from heterogeneous
+                sources</li>
+            <li>standardized representation of domain-specific features</li>
+            <li>advanced metadata search capabilities</li>
+            <li>integration with computational tools and workflows for statistical data analysis and ML via APIs</li>
+            <li>automated feedback of parameters and output of the ML model into the RDM system</li>
+            <li>export of data (including source code) and associated metadata to public repositories</li>
+        </ul>
+        <h3 class="h3" id="motivation">References
+        </h3>
+        [1] Wilkinson, Mark D., et al. "The FAIR Guiding Principles for scientific data management and
+        stewardship." Scientific data 3.1 (2016): 1-9.
+    </div>
+</div>

@@ -1,37 +1,38 @@
-.team_members {
+.topics-content {
 	padding: 0;
 	list-style: none;
 	@extend %flexbox;
 	@include flex-flow(wrap);
 
-	.profile_picture {
-		width: 25%;
-
-		img {
-			border-radius: 250px;
-		}
-
+	.graphical-abstract {
+		width: 50%;
 		margin: auto;
 		display: block;
 	}
 
-	.personal_description {
+	.topic {
+		text-indent: 10px;
 		font-size: 1.3em;
 		margin-top: 20px;
 		color: #666;
 		text-align: left;
 	}
 
-	.publications {
-		font-size: 1.3em;
+	.topics-body {
+		font-size: 1.1em;
 		margin-top: 20px;
 		color: #666;
 		text-align: left;
 	}
 
-	.socials {
-		font-size: 1.3em;
+	.topics-list {
+		font-size: 1.1em;
+		margin-top: 20px;
+		color: #666;
 		text-align: left;
 	}
 
+	.h3 {
+		color: rgb(0, 0, 0);
+	}
 }
