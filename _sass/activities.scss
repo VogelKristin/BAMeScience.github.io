@@ -1,4 +1,4 @@
-.topics-content {
+.activities-content {
 	padding: 0;
 	list-style: none;
 	@extend %flexbox;
@@ -10,7 +10,7 @@
 		display: block;
 	}
 
-	.topic {
+	.activity {
 		text-indent: 10px;
 		font-size: 1.3em;
 		margin-top: 20px;
@@ -18,14 +18,14 @@
 		text-align: left;
 	}
 
-	.topics-body {
+	.activities-body {
 		font-size: 1.1em;
 		margin-top: 20px;
 		color: #666;
 		text-align: left;
 	}
 
-	.topics-list {
+	.activities-list {
 		font-size: 1em;
 		margin-top: 20px;
 		color: #666;
