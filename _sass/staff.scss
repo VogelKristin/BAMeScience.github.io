@@ -4,6 +4,7 @@
 	@extend %flexbox;
 	@include flex-flow(wrap);
 	text-align: center;
+
 	li {
 		padding: 30px 20px;
 		box-sizing: border-box;
@@ -22,10 +23,11 @@
 	.square-image {
 		width: 200px;
 		height: 200px;
-			img {
-				border-radius: 200px;
-			}
+
+		img {
+			border-radius: 200px;
 		}
+	}
 
 	.name {
 		font-size: 1.3em;
@@ -35,4 +37,8 @@
 	.position {
 		color: #666;
 	}
+}
+
+.divider {
+	text-align: center;
 }
