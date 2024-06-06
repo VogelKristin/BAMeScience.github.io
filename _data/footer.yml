@@ -1,11 +1,4 @@
 - links:
-  - name: Twitter
-    link: https://twitter.com/BamEscience
-    social_icon: Twitter
-    new_window: true
-  - name: Legal Notice
-    link: /legal/
-- links:
   - name: GitHub
     link: https://github.com/BAMeScience
     social_icon: 
