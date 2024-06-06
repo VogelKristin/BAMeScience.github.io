@@ -2,16 +2,16 @@
   link: /team/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+- name: Activities
+  link: /activities/
   new_window: false
   highlight: false
 - name: Publications
   link: /publications/
   new_window: false
   highlight: false
-- name: Activities
-  link: /activities/
+- name: Contact
+  link: /contact/
   new_window: false
   highlight: false
 - name: GitHub
