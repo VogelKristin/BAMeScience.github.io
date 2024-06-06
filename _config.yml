@@ -16,9 +16,6 @@ collections:
   alumni:
     _hide_content: true
 
-paginate: 10
-paginate_path: "/blog/:num/"
-permalink: pretty
 
 defaults:
   - scope:
@@ -67,8 +64,6 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
 
 exclude:
   - Gemfile
