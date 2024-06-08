@@ -229,20 +229,13 @@
      id="layer1"
      transform="translate(4.6518154,48.865979)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:#5f8dd3;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffeebd;fill-opacity:1;stroke:#5f8dd3;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect8085"
        width="369.27423"
        height="143.79724"
        x="-0.46231553"
        y="-44.676479"
        ry="21.764711" />
-    <ellipse
-       style="fill:#ffdd55;stroke-width:0.97905"
-       id="path2974"
-       cx="278.46893"
-       cy="37.641052"
-       rx="75.680588"
-       ry="51.87603" />
     <path
        style="fill:#999999;stroke:#4d4d4d;stroke-width:5.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 64.382235,-15.513149 V 58.992587"
